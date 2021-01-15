@@ -15,7 +15,7 @@ const Auditpage=(props) => {
 
 
             const [currentPage, setCurrentPage] = useState(1);
-            const [postsPerPage] = useState(100);
+            const [postsPerPage] = useState(20);
 
 
             const [query, setQuery] = useState('')
