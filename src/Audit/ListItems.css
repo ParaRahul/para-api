@@ -1,0 +1,22 @@
+table,th,td {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 15px;
+}
+
+table{
+    width: 100%;
+}
+
+
+th{
+    font-size: 20px;
+}
+
+select{
+    border: 6px solid transparent;
+    background-color: gray;
+    color: white;
+    padding: 10px;
+
+}
